@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://trick67.netlify.app/'
 # title = "Hugo Themes"
 author = "Steve Francia"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
