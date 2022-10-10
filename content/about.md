@@ -1,25 +1,58 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+title = "个人介绍"
+description = "这是我的个人介绍"
+date = "2020-10-10"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "lee.so"
+author = "Trick"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## 总体概述
 
-Hugo makes use of a variety of open source projects including:
+> 我是Trick，来自安徽，计算机网络专业；
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 兴趣爱好
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+> 我是业余乒乓球选手，平常喜欢运动；
+>
+> 我平常一个人时喜欢听音乐，电子纯音（Alan Walker），流行音乐（林俊杰），只要旋律节奏对了，那就是我钟爱的音乐了；
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+##  专业能力
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+1. 掌握华为路由器，交换机，防火墙等⽹络设备的配置
+2. 掌握 ospf,bgp,vrrp ,mstp ,net技术
+3. 服务器搭建、部署、维护（Linux基础）
+4. 数据库（MySQL）
+5. windows server 2012系统 服务器搭建
+6. 掌握响应式前端网页开发（bootstrap）
+7. 了解SDN技术
+8. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+>我的个人能力偏向综合性，个人综合素养中等，如（与人交流对接、工作能力（如Excel表格处理、word文档书写与排版））；
+>
+>我的学习能力较高，具备遇到问题解决问题能力，通过不断学习，提升个人综合能力；
+
+## 获奖记录
+
+* 校一等奖学金
+* 三好学生
+* 国家励志奖学金
+* 校网络建设与运维比赛 三等奖
+* 2021年全国⼤学⽣信息安全竞赛安徽省赛⽹络建设与运维赛道 ⼆等奖
+* “中文在线杯”全国高职高专院校信息素养大赛安徽省赛区校赛 三等奖
+* 党课知识竞赛优秀奖
+* 入党积极分子结业
+
+## 学习能力
+
+> 以下是我对__学习能力__的理解:
+>
+> 首先，要快速的掌握一个新的能力靠的就是个人的学习能力，有的人很快就能够入门，而有的人却很慢，这就是每个人的学习能力的不同。而决定每个人的学习能力的不同，我认为有以下因素，
+>
+> 一、个人先天天赋；
+>
+> 二、个人后期积累的经验（包括自身能力的积累和见识）；
+>
+> 
+
+
+
